@@ -6,10 +6,11 @@
 
 ### Document de formation à Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=presentation.ipynb)
 
-### Environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/environnement.ipynb)
+### Environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hugues862/NSIterm/perso?urlpath=apps/environnement.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hugues862/NSIterm/perso)
 
 
-### Sommaire du cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/sommaire.ipynb)
+### Sommaire du cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hugues862/NSIterm/perso?urlpath=apps/sommaire.ipynb)
 
 
 ### Cours 00 - Mise en route
@@ -57,18 +58,6 @@
 * I. Introduction
 * II. Notions générales sur les arbres
 * III. Arbres binaires
-
-### Cours 07 - Tests unitaires
-* I. Importer un module
-* II. Ecrire un module
-* III. Tester un module -tests unitaires-
-* IV. Principe du Test driven development
-
-### Cours 08 - Bases de données
-* I. Base de données
-    * TD_08_1 - Etablir des schémas relationnels
-* II. Système de gestion de base de données (SGBD)
-    * TD_08_2 - Le langage SQL 
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
